@@ -325,3 +325,21 @@
         }
     }
 }
+
+@media(max-width:380px) {
+    header {
+
+        .maintext {
+            left: 5%;
+
+            .bigtext {
+                font-size: 2.0rem;
+            }
+
+            .smalltext {
+                font-size: .8rem;
+            }
+        }
+    }
+    
+}
